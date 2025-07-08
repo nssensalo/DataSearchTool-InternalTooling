@@ -40,19 +40,10 @@ Frontend : React + Vite
 Server: Node / Express  
 UI: MUI  
 
+https://github.com/user-attachments/assets/7d0637fa-a640-48e4-92e5-d6d2bfb2cc10
 
 
 
-https://github.com/user-attachments/assets/97e47a5a-41dd-4cb1-8316-d5592354df90
-
-
-
-https://github.com/user-attachments/assets/b7d678c7-6c32-48bc-9aaf-46ec5a5224bb
-
-
-
-
-https://github.com/user-attachments/assets/ab515709-7d64-4fa0-8404-96a9e2e162ad
 
 
 ## Run
